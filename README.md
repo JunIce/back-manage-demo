@@ -4,13 +4,13 @@
 > 基于element UI 开发，eslint规范书写
 [demo地址]: http://manage-vue.alafrase.com
 
-1. 使用的js库
+1.使用的js库
 *   element ui
 *   vue-router
 *   echarts
 *   axios
 
-2. mock 数据
+2.mock 数据
 [easy-mock]: https://easy-mock.com/
 easy-mock 挺好用的，基于mockjs
 
